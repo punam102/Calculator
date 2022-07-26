@@ -62,6 +62,9 @@ button{
   font-weight: 500;
 
 }
+button:hover{
+  color:grey;
+}
 
 input:focus,
 input:active,
